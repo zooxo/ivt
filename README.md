@@ -15,13 +15,13 @@ IVT was made without compromises to offer a complete FORTH-like programming envi
 And it's amazing how much calculating power fits into 8 kilobytes:
 * 79 intrinsic functions based on FORTH
 * A wide range of mathematical and scientific commands (DUP DROP SWAP ROT OVER / * - + PI SQRT POWER INV INT EXP LN SIN COS TAN ASIN ACOS ATAN GAMMA P>R R>P)
+* Statistics, line best fit and normal distribution (CDF, PDF)
+* Present value calculations
 * Programming: Up to 16 user definable programs with a total of 440 steps (< = <> > IF ELSE THEN BEGIN UNTIL)
 * A solver to find roots of user defined functions
 * A dictionary of all commands, words and programs
 * A use definable menu for fast access to all commands, words and programs
 * Save up to 10 numbers/constants permanently
-* Statistics, line best fit and normal distribution (CDF, PDF)
-* Present value calculations
 
 Have fun!
 deetee
