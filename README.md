@@ -17,7 +17,7 @@ And it's amazing how much calculating power fits into 8 kilobytes:
 * Programming: Up to 16 user definable programs with a total of 440 steps
 * A solver to find roots of user defined functions
 * A dictionary of all commands, words and programs
-* Save ip to 10 numbers/constants permanently
+* Save up to 10 numbers/constants permanently
 * Statistics, line best fit and normal distribution (CDF, PDF)
 * Present value calculations
 
