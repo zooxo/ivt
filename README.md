@@ -11,7 +11,7 @@ The hardware is simple:
 * 16 keys touch sensitive keypad (TTP229-BSF, 2 wire)
 * CR2032 battery
 
-IVT was made whithout compromises to offer a complete FORTH-like programming environment and a maximum of mathematical functions (mostly written in FORTH itself).
+IVT was made without compromises to offer a complete FORTH-like programming environment and a maximum of mathematical functions (mostly written in FORTH itself).
 And it's amazing how much calculating power fits into 8 kilobytes:
 * 79 intrinsic functions based on FORTH
 * A wide range of mathematical and scientific commands (DUP DROP SWAP ROT OVER / * - + PI SQRT POWER INV INT EXP LN SIN COS TAN ASIN ACOS ATAN GAMMA P>R R>P)
