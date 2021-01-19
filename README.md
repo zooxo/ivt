@@ -3,7 +3,7 @@
 
 ## ** IVT IS COMING SOON! **
 
-IVT is the smallest member of the IV-calculator series (FORTH-like programable calculators). The name IV stands for the roman number 4, which was the basis for naming FORTH (4th generation programming language.
+IVT is the smallest member of the IV-calculator series (FORTH-like programable calculators). The name IV stands for the roman number 4, which was the basis for naming FORTH (4th generation programming language).
 
 The hardware is simple:
 * AVR ATTINY85 microcontroller (8192/512/512 bytes of FLASH/RAM/EEPROM)
