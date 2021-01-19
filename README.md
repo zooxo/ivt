@@ -2,3 +2,24 @@
 
 
 ## ** IVT IS COMING SOON! **
+
+IVT is the smallest member of the IV-calculator series (FORTH-like programable calculators). The name IV stands for the roman number 4, which was the basis for naming FORTH (4th generation programming language.
+
+The hardware is simple:
+* AVR ATTINY85 microcontroller (8192/512/512 bytes of FLASH/RAM/EEPROM)
+* OLED-display (128c32, I2C, SSD1306)
+* 16 keys touch sensitive keypad (TTP229-BSF, 2 wire)
+* CR2032 battery
+
+IVT was made whithout compromises to offer a complete FORTH-like programming environment and a maximum of mathematical functions (mostly written in FORTH itself).
+And it's amazing how much calculating power fits into 8 kilobytes:
+* 79 intrinsic functions based on FORTH
+* Programming: Up to 16 user definable programs with a total of 440 steps
+* A solver to find roots of user defined functions
+* A dictionary of all commands, words and programs
+* Save ip to 10 numbers/constants permanently
+* Statistics, line best fit and normal distribution (CDF, PDF)
+* Present value calculations
+
+Have fun!
+deetee
