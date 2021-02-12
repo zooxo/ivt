@@ -3,6 +3,9 @@
 
 ## ** IVT IS COMING SOON! **
 
+![ivt](https://user-images.githubusercontent.com/16148023/107773107-7519f480-6d3d-11eb-83c8-1f47c9d18439.jpg)
+See a short video of IVEE at: https://youtu.be/VqkXdZuKv6A
+
 IVT is the smallest member of the IV-calculator series (FORTH-like programable calculators). The name IV stands for the roman number 4, which was the basis for naming FORTH (4th generation programming language).
 
 The hardware is simple:
