@@ -17,10 +17,10 @@ See a short video of IVEE at: https://youtu.be/VqkXdZuKv6A
   which was the basis for naming FORTH (4th generation programming language).
 
   The hardware is simple:
-    - AVR ATTINY85 microcontroller (8192/512/512 bytes of FLASH/RAM/EEPROM)
-    - OLED-display (128x32, I2C, SSD1306)
-    - 16 keys touch sensitive keypad (TTP229-BSF, 2-wire)
-    - CR2032 battery
+  - AVR ATTINY85 microcontroller (8192/512/512 bytes of FLASH/RAM/EEPROM)
+  - OLED-display (128x32, I2C, SSD1306)
+  - 16 keys touch sensitive keypad (TTP229-BSF, 2-wire)
+  - CR2032 battery
 
   IVT was made without making compromises to offer a complete FORTH-like
   programming environment and a maximum of mathematical functions (mostly
