@@ -72,22 +72,12 @@ See a short video of IVEE at: https://youtu.be/VqkXdZuKv6A
    LIMITS
   ____________________
 
-    As a microprocessor is primarily not made to do such complex things like
-    performing a powerful calculator there are some limits in performance and
-    resources.
-    Most obvious is the limited precision of the intrinsic float format (IEEE
-    754, 32 bit). As four bytes only are used to represent a float respective
-    double number the decimal digits of precision are limited to 6...7.
+  As a microprocessor is primarily not made to do such complex things like performing a powerful calculator there are some limits in performance and resources.
+  Most obvious is the limited precision of the intrinsic float format (IEEE 754, 32 bit). As four bytes only are used to represent a float respective double number the decimal digits of precision are limited to 6...7.
 
-    In addition the resources of a microcontroller are limited like the FLASH
-    memory (holds the executable program code), the RAM memory (holds variables
-    and data while running) and the EEPROM (holds permanent data like settings
-    or user programs). Due to the target of maximal calculating power IVT lacks
-    on many "features of comfort". For example there is no error control - a
-    division by zero results in a "non interpretable" display.
+  In addition the resources of a microcontroller are limited like the FLASH memory (holds the executable program code), the RAM memory (holds variables and data while running) and the EEPROM (holds permanent data like settings or user programs). Due to the target of maximal calculating power IVT lacks on many "features of comfort". For example there is no error control - a division by zero results in a "non interpretable" display.
 
-    However IVT tries to offer a maximum of features, comfort and performance
-    with a minimum of required resources.
+  However IVT tries to offer a maximum of features, comfort and performance with a minimum of required resources.
 
     LIMITS:
       24   ... Maximal data stack size
@@ -102,14 +92,9 @@ See a short video of IVEE at: https://youtu.be/VqkXdZuKv6A
    BROWSING MENUS
   ____________________
 
-    To navigate through the menu of some functions (MENU, DICT or USR)
-    all selectable items are divided into four sections. Every section has its
-    own up and down key (section I: E/N, section II: 4/1, section III: 5/2 and
-    section IV: 6/3).
-    To select one of the four presented items use the appropriate function key
-    (F/7/8/9) or escape the menu with "C".
-    There is some kind of hidden feature: If you leave the menu with the D-key
-    the brightness of the display will be set (0~255, not permanent!).
+  To navigate through the menu of some functions (MENU, DICT or USR) all selectable items are divided into four sections. Every section has its own up and down key (section I: E/N, section II: 4/1, section III: 5/2 and section IV: 6/3).
+  To select one of the four presented items use the appropriate function key (F/7/8/9) or escape the menu with "C".
+  There is some kind of hidden feature: If you leave the menu with the D-key the brightness of the display will be set (0~255, not permanent!).
 
   ____________________
 
