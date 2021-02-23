@@ -166,7 +166,7 @@ See a short video of IVEE at: https://youtu.be/VqkXdZuKv6A
   ____________________
 
   IVT is able to deal with up to 16 user programs (named 00-15) with a total number of 440 steps/commands. The maximal size per user program rises from 20 steps (program 00) to 35 steps (program 15).
-  To edit a program, enter the program number (00~15) followed by PRG (F-8). The display shows P (for program), the program number (015), the program step number (vary with cursor keys E and N) and the command of this step.
+  To edit a program, enter the program number (00-15) followed by PRG (F-8). The display shows P (for program), the program number (00-15), the program step number (vary with cursor keys E and N) and the command of this step.
   To insert a program step
   - press a key (number or DUP),
   - press a shifted key (press F twice to toggle) or
@@ -201,10 +201,10 @@ See a short video of IVEE at: https://youtu.be/VqkXdZuKv6A
 
   ____________________
 
-    PROGRAM EXAMPLES
+  PROGRAM EXAMPLES
   ____________________
 
-'''
+´´´
   ABS:   DUP 0 LT IF NEG THEN
   FRAC:  DUP INT -
   SINH:  EXP DUP INV NEG + 2 /          ... sinh=(exp(x)-exp(-x))/2
@@ -244,7 +244,7 @@ See a short video of IVEE at: https://youtu.be/VqkXdZuKv6A
 
   nCr = n!/(n-r)!/r! = nPr/r! : DUP ROT SWAP PERM 1 ROT
   BEGIN ROT ROT DUP ROT SWAP / ROT ROT 1 + SWAP OVER 1 - OVER SWAP LT UNTIL DROP DROP
-'''
+´´´
   ____________________
 
     ATTINY85 PINS
