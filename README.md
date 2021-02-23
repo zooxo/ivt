@@ -62,6 +62,8 @@ See a short video of IVEE at: https://youtu.be/VqkXdZuKv6A
    KEYBOARD
   ____________________
 
+<img width="110" alt="ivt - keys" src="https://user-images.githubusercontent.com/16148023/108823425-afe31e80-75c0-11eb-8f19-fd4603382fd6.png">
+
     F(MENU) 7(SUM+) 8(PRG)  9(/)
     E(SWAP) 4(DICT) 5(USR)  6(*)
     N(ROT)  1(RCL)  2(STO)  3(-)
