@@ -165,8 +165,8 @@ See a short video of IVEE at: https://youtu.be/VqkXdZuKv6A
    PROGRAMMING
   ____________________
 
-  IVT is able to deal with up to 16 user programs (named 00~15) with a total number of 440 steps/commands. The maximal size per user program rises from 20 steps (program 00) to 35 steps (program 15).
-  To edit a program, enter the program number (00~15) followed by PRG (F-8). The display shows P (for program), the program number (00~15), the program step number (vary with cursor keys E and N) and the command of this step.
+  IVT is able to deal with up to 16 user programs (named 00-15) with a total number of 440 steps/commands. The maximal size per user program rises from 20 steps (program 00) to 35 steps (program 15).
+  To edit a program, enter the program number (00~15) followed by PRG (F-8). The display shows P (for program), the program number (015), the program step number (vary with cursor keys E and N) and the command of this step.
   To insert a program step
   - press a key (number or DUP),
   - press a shifted key (press F twice to toggle) or
@@ -185,7 +185,7 @@ See a short video of IVEE at: https://youtu.be/VqkXdZuKv6A
 
   ____________________
 
-    POWER CONSUMPTION
+  POWER CONSUMPTION
   ____________________
 
   As IVT provides a maximum of calculating power there where less resources for a good power management (i.e. idle, screen saver, auto power off) left.
