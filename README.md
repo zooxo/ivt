@@ -45,19 +45,17 @@ See a short video of IVEE at: https://youtu.be/VqkXdZuKv6A
    COMPILING
   ____________________
 
-    As IVT consumes 8190 bytes of flash memory (maximal 8192 bytes possible)
-    compiling with proper settings is essential. Use the Arduino IDE, load the
-    right library for the ATTINY85 and use the following settings:
+  As IVT consumes 8190 bytes of flash memory (maximal 8192 bytes possible) compiling with proper settings is essential. Use the Arduino IDE, load the right library for the ATTINY85 and use the following settings:
 
-      - Library: "attiny by Davis A. Mellis"
-      - Board: "ATtiny25/45/85 (No bootloader)"
-      - Chip: "ATtiny85"
-      - Clock: "8 MHz (internal)"
-      - B.O.D. Level: B.O.D. Disabled
-      - Save EEPROM: "EEPROM retained"
-      - Timer 1 Clock: "CPU (CPU frequency)"
-      - LTO: "Enabled"
-      - millis()/micros(): "Disabled"
+  - Library: "attiny by Davis A. Mellis"
+  - Board: "ATtiny25/45/85 (No bootloader)"
+  - Chip: "ATtiny85"
+  - Clock: "8 MHz (internal)"
+  - B.O.D. Level: B.O.D. Disabled
+  - Save EEPROM: "EEPROM retained"
+  - Timer 1 Clock: "CPU (CPU frequency)"
+  - LTO: "Enabled"
+  - millis()/micros(): "Disabled"
 
   ____________________
 
