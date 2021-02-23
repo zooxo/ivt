@@ -76,8 +76,8 @@ See a short video of IVEE at: https://youtu.be/VqkXdZuKv6A
 
   As a microprocessor is primarily not made to do such complex things like performing a powerful calculator there are some limits in performance and resources.
   Most obvious is the limited precision of the intrinsic float format (IEEE 754, 32 bit). As four bytes only are used to represent a float respective double number the decimal digits of precision are limited to 6...7.
-
-  In addition the resources of a microcontroller are limited like the FLASH memory (holds the executable program code), the RAM memory (holds variables and data while running) and the EEPROM (holds permanent data like settings or user programs). Due to the target of maximal calculating power IVT lacks on many "features of comfort". For example there is no error control - a division by zero results in a "non interpretable" display.
+  In addition the resources of a microcontroller are limited like the FLASH memory (holds the executable program code), the RAM memory (holds variables and data while running) and the EEPROM (holds permanent data like settings or user programs).
+  Due to the target of maximal calculating power IVT lacks on many "features of comfort". For example there is no error control - a division by zero results in a "non interpretable" display.
 
   However IVT tries to offer a maximum of features, comfort and performance with a minimum of required resources.
 
