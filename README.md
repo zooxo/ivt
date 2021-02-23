@@ -225,7 +225,7 @@ See a short video of IVEE at: https://youtu.be/VqkXdZuKv6A
   QE: OVER 2 / DUP * SWAP - SQRT SWAP 2 / NEG
   SWAP OVER OVER - ROT ROT +            ... x12=-p/2+-sqrt(p*p/4-q)
 
-  DEG<>RAD: DUP PI * 1 8 0 / SWAP 1 8 0-* PI /
+  DEG<>RAD: DUP PI * 1 8 0 / SWAP 1 8 0 - * PI /
   C<>F: DUP 1 . 8 * 3 2 + SWAP 3 2 - 1 . 8 /
   KM<>MI: DUP 1 . 6 0 9 3 4 4 DUP DUP ROT SWAP / ROT ROT *
   M<>FT: DUP 3 . 3 7 0 0 7 9 DUP DUP ROT * ROT ROT /
