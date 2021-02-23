@@ -185,7 +185,7 @@ See a short video of IVEE at: https://youtu.be/VqkXdZuKv6A
 
   ____________________
 
-  POWER CONSUMPTION
+   POWER CONSUMPTION
   ____________________
 
   As IVT provides a maximum of calculating power there where less resources for a good power management (i.e. idle, screen saver, auto power off) left.
@@ -201,10 +201,10 @@ See a short video of IVEE at: https://youtu.be/VqkXdZuKv6A
 
   ____________________
 
-  PROGRAM EXAMPLES
+   PROGRAM EXAMPLES
   ____________________
 
-´´´
+```
   ABS:   DUP 0 LT IF NEG THEN
   FRAC:  DUP INT -
   SINH:  EXP DUP INV NEG + 2 /          ... sinh=(exp(x)-exp(-x))/2
@@ -244,10 +244,10 @@ See a short video of IVEE at: https://youtu.be/VqkXdZuKv6A
 
   nCr = n!/(n-r)!/r! = nPr/r! : DUP ROT SWAP PERM 1 ROT
   BEGIN ROT ROT DUP ROT SWAP / ROT ROT 1 + SWAP OVER 1 - OVER SWAP LT UNTIL DROP DROP
-´´´
+```
   ____________________
 
-    ATTINY85 PINS
+   ATTINY85 PINS
   ____________________
 
                           _____
